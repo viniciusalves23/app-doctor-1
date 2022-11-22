@@ -1,22 +1,20 @@
 <center>
-# Minhas atribuições: fui responsável por toda parte do frontend.
-
   
 # App Doctor
 
 ![Logo app-doctor](./frontend/src/assets/resources/img/logo.png)
 
 ---
+## Minhas atribuições 
+  Fui responsável por toda parte do frontend.
+---
+
 ## Telas da Aplicação
 ![alt text](https://github.com/viniciusalves23/app-doctor-1/blob/master/galeria1.PNG?raw=true)
   
 (![image](https://user-images.githubusercontent.com/83824469/203323640-ce7d1fc7-cdfc-4406-b46d-ba08a7bcea0b.png)
   
-![alt text]([https://github.com/viniciusalves23/app-doctor-1/blob/master/galeria1.PNG?raw=true](https://github.com/viniciusalves23/app-doctor-1/blob/master/galeria3.PNG?raw=true)
-
-
- 
-
+![alt text](https://github.com/viniciusalves23/app-doctor-1/blob/master/galeria3.PNG?raw=true)
 
 ---
 
