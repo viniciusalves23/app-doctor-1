@@ -21,7 +21,13 @@
   
 ![alt text](https://github.com/viniciusalves23/app-doctor-1/blob/master/galeria6.PNG?raw=true)
 
-
+![alt text](https://github.com/viniciusalves23/app-doctor-1/blob/master/galeria7.PNG?raw=true)
+  
+![alt text](https://github.com/viniciusalves23/app-doctor-1/blob/master/galeria8.PNG?raw=true)
+  
+![alt text](https://github.com/viniciusalves23/app-doctor-1/blob/master/galeria9.PNG?raw=true)
+  
+![alt text](https://github.com/viniciusalves23/app-doctor-1/blob/master/galeria10.PNG?raw=true)
 
 ---
 
