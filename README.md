@@ -6,7 +6,7 @@
 
 ---
 ## Telas da Aplicação
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/viniciusalves23/app-doctor-1/blob/master/galeria1.PNG?raw=true)
 
 
 ---
