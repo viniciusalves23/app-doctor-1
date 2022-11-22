@@ -5,8 +5,7 @@
 ![Logo app-doctor](./frontend/src/assets/resources/img/logo.png)
 
 ---
-## Minhas atribuições 
-  Fui responsável por toda parte do frontend.
+## Minhas atribuições: fui responsável por toda parte do frontend.
 ---
 
 ## Telas da Aplicação
